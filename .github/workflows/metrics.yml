@@ -13,13 +13,8 @@ jobs:
           # Options
           user: Viyerelu23333
           template: classic
-          base: activity, community, repositories, metadata
-          config_display: columns
+          base: activity, repositories, metadata
           config_timezone: America/New_York
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
@@ -32,17 +27,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_reactions: yes
-          plugin_reactions_display: relative
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, projects, languages, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: Viyerelu23333
           plugin_wakatime_token: ${{ secrets.WKTOKEN }}
