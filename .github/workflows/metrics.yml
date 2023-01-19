@@ -27,6 +27,9 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_indepth: yes
           plugin_languages_skipped: ${{ secrets.PL_REPO_SKIP }}
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot, jupyter notebook
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
