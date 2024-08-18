@@ -135,9 +135,9 @@
                     <rect mask="url(#languages-bar)" x="108.41836984158029" y="0" width="105.50569626442402" height="8" fill="#3c5caa"/>
                     <rect mask="url(#languages-bar)" x="213.9240661060043" y="0" width="100.17516624291024" height="8" fill="#555555"/>
                     <rect mask="url(#languages-bar)" x="314.09923234891454" y="0" width="60.18775669861139" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="374.28698904752594" y="0" width="31.924139448464697" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="374.28698904752594" y="0" width="31.924139448464697" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="406.2111284959906" y="0" width="20.6473694504205" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="426.8584979464111" y="0" width="17.411377860355955" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="426.8584979464111" y="0" width="17.411377860355955" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="444.26987580676706" y="0" width="15.730124193232937" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -167,7 +167,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PHP
                     </div>
@@ -179,7 +179,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#c1d026" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Twig
                     </div>
@@ -243,7 +243,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Aug 2024, 08:25:15 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Aug 2024, 14:16:09 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
