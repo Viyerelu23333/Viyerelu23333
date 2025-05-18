@@ -125,20 +125,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 298kb of code in 346 edited files across 63 commits</small>
+                <small>estimation from 287kb of code in 344 edited files across 62 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="108.46610086582204" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="108.46610086582204" y="0" width="105.55214498850462" height="8" fill="#3c5caa"/>
-                    <rect mask="url(#languages-bar)" x="214.01824585432666" y="0" width="100.21926820916696" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="314.2375140634936" y="0" width="60.214254267964584" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="374.4517683314582" y="0" width="31.938194002837154" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="406.3899623342954" y="0" width="20.45394511568752" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="426.8439074499829" y="0" width="17.41904319326909" height="8" fill="#c1d026"/>
-                    <rect mask="url(#languages-bar)" x="444.26295064325194" y="0" width="15.737049356748031" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="116.88529559052212" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="116.88529559052212" y="0" width="107.99833952716058" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="224.88363511768273" y="0" width="78.03971956458713" height="8" fill="#3c5caa"/>
+                    <rect mask="url(#languages-bar)" x="302.92335468226986" y="0" width="64.88811575867794" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="367.8114704409478" y="0" width="34.41725310350281" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="402.22872354445065" y="0" width="22.04159089112042" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="424.27031443557104" y="0" width="18.771118315278986" height="8" fill="#c1d026"/>
+                    <rect mask="url(#languages-bar)" x="443.04143275085" y="0" width="16.958567249149993" height="8" fill="#dea584"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -149,15 +149,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3c5caa" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Racket
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3c5caa" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Racket
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,7 +219,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 May 2025, 21:22:52 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2025, 02:22:02 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
